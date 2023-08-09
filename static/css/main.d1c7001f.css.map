@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d1c7001f.css","mappings":"AAAA,EACE,6BAAgC,CAChC,SAEF,CCJA,ODGE,QCAF,CAHA,KACE,wBAEF","sources":["index.css","App.css"],"sourcesContent":["*{\n  font-family: \"Roboto\",sans-serif;\n  padding: 0;\n  margin: 0;\n}\n","body{\r\n  background-color: rgb(248, 246, 243);\r\n  margin: 0;\r\n}"],"names":[],"sourceRoot":""}
